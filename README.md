@@ -1,6 +1,6 @@
 # Humanizer
 
-[![skills.sh installs](https://skills.sh/b/harindujayakody/humanizer)](https://skills.sh/harindujayakody/humanizer)
+[![skills.sh installs](https://skills.sh/b/blader/humanizer)](https://skills.sh/blader/humanizer) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Humanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is just Markdown, it works with any agent that supports skills.
 
